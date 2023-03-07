@@ -21,7 +21,7 @@ int euclidusFast(int a, int b) {
   return a;
 }
 
-int main(const int argc, const char** argv) {
+int main_euclidus(const int argc, const char** argv) {
   int a;
   int b;
   printf("%s", "Enter number A: ");

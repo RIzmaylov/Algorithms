@@ -28,7 +28,7 @@ int euclidusExt(int a, int b, int* x, int* y) {
   return a;
 }
 
-int main(const int argc, const char** argv) {
+int main_ext_euclidus(const int argc, const char** argv) {
   int a;
   int b;
   int coeffA;

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(const int argc, const char** argv) {
+int main_resheto_eratosfena(const int argc, const char** argv) {
   int arr[255] = {2, 3};
   int capacity = 2;
 

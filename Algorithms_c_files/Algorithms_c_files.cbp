@@ -31,7 +31,16 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="euclidus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ext_euclidus.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="resheto_eratosfena.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />

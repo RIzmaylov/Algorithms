@@ -6,3 +6,25 @@
 	<stdio.h>
 	<stdlib.h>
 
+1678191982 source:c:\users\user\desktop\projectsc++\geekbrains\algorithms\algorithms\algorithms_c_files\ext_euclidus.c
+	<stdio.h>
+
+1678974476 source:c:\users\user\desktop\projectsc++\geekbrains\algorithms\algorithms\algorithms_c_files\resheto_eratosfena.c
+	<stdio.h>
+
+1678974457 source:c:\users\user\desktop\projectsc++\geekbrains\algorithms\algorithms\algorithms_c_files\geek.c
+	"geek.h"
+
+1678974457 c:\users\user\desktop\projectsc++\geekbrains\algorithms\algorithms\algorithms_c_files\geek.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdarg.h>
+
+1678975002 source:c:\users\user\desktop\projectsc++\geekbrains\algorithms\algorithms\algorithms_c_files\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"geek.h"
+

@@ -37,6 +37,13 @@
 		<Unit filename="ext_euclidus.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="geek.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="geek.h" />
+		<Unit filename="interpolation_search.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

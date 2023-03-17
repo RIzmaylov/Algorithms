@@ -31,7 +31,7 @@ int main(const int argc, const char** argv) {
   printIntArray(arr, SIZE, 3);
   sortIntInserts(arr, SIZE);
   printIntArray(arr, SIZE, 3);
-  printf("Num 4 was find on index: %d \n", interpolationSearch(arr, SIZE, 4));
+  printf("Num 55 was find on index: %d \n", interpolationSearch(arr, SIZE, 55));
 
   return 0;
 }

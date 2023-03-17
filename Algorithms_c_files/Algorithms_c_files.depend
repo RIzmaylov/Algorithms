@@ -23,7 +23,12 @@
 	<time.h>
 	<stdarg.h>
 
-1678975002 source:c:\users\user\desktop\projectsc++\geekbrains\algorithms\algorithms\algorithms_c_files\bubble_sort.c
+1679035675 source:c:\users\user\desktop\projectsc++\geekbrains\algorithms\algorithms\algorithms_c_files\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"geek.h"
+
+1679035690 source:c:\users\user\desktop\projectsc++\geekbrains\algorithms\algorithms\algorithms_c_files\shaker_sort.c
 	<stdio.h>
 	<stdlib.h>
 	"geek.h"

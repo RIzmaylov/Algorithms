@@ -31,6 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="counting_sort.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="euclidus.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -41,9 +44,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="geek.h" />
-		<Unit filename="interpolation_search.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

@@ -31,7 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="counting_sort.c">
+		<Unit filename="better_quick_sort.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="euclidus.c">
